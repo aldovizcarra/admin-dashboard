@@ -79,6 +79,12 @@ body {
   height: 24px;
 }
 
+/* Project Cards styles */
+.card-icon {
+  width: 24px;
+  height: 24px;
+}
+
 /* Widget styles */
 .trending-avatar {
   width: 40px;
