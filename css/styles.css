@@ -57,6 +57,7 @@ body {
   height: 100%;
 }
 
+/* header styles */
 .header-icon {
   width: 24px;
   height: 24px;
@@ -70,4 +71,10 @@ body {
 .user-avatar-1-lg {
   width: 60px;
   height: 60px;
+}
+
+/* Sidebar styles */
+.nav-icon {
+  width: 24px;
+  height: 24px;
 }
