@@ -57,6 +57,13 @@ body {
   height: 100%;
 }
 
+/* Container styles */
+.container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
 /* header styles */
 .header-icon {
   width: 24px;
