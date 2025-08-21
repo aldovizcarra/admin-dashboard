@@ -56,3 +56,8 @@ html,
 body {
   height: 100%;
 }
+
+.header-icon {
+  width: 24px;
+  height: 24px;
+}
