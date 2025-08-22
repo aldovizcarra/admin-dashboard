@@ -98,7 +98,12 @@ body {
   height: 24px;
 }
 
-/* Project Cards styles */
+/* Main styles */
+.main {
+  grid-column: 2;
+  grid-row: 2;
+}
+
 .card-icon {
   width: 24px;
   height: 24px;
