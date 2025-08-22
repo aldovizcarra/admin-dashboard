@@ -70,6 +70,10 @@ body {
 .header {
   grid-column: 2;
   grid-row: 1;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  border: 1px solid red;
+  padding: 24px;
 }
 
 .header-icon {
@@ -85,6 +89,34 @@ body {
 .user-avatar-1-lg {
   width: 60px;
   height: 60px;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+}
+
+.search-input {
+  width: 100%;
+  max-width: 600px;
+  border-radius: 16px;
+  background-color: #e2e8f0;
+  border: none;
+}
+
+.username-sm {
+  display: flex;
+  align-items: center;
+}
+
+.username-lg {
+  display: flex;
+  align-items: center;
+}
+
+.header-buttons {
+  display: flex;
+  align-items: center;
 }
 
 /* Sidebar styles */
