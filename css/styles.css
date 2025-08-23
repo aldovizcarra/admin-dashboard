@@ -122,6 +122,7 @@ body {
 .username-sm {
   display: flex;
   align-items: center;
+  gap: 16px;
 }
 
 .username-lg {
