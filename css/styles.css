@@ -88,6 +88,16 @@ body {
 .user-avatar-1-sm {
   width: 40px;
   height: 40px;
+  border-radius: 50%;
+  background-color: #facc2f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.user-avatar-1-sm img {
+  width: 36px;
+  height: 36px;
 }
 
 .user-avatar-1-lg {
