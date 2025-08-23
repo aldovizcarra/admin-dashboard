@@ -125,6 +125,10 @@ body {
   gap: 16px;
 }
 
+.username-sm span {
+  font-weight: 700;
+}
+
 .username-lg {
   display: flex;
   align-items: center;
