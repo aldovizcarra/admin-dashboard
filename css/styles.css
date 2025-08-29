@@ -121,6 +121,7 @@ body {
 .username-sm {
   display: flex;
   align-items: center;
+  justify-content: end;
   gap: 24px;
 }
 
