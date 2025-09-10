@@ -178,6 +178,7 @@ body {
 .sidebar {
   grid-column: 1;
   grid-row: 1 / -1;
+  background-color: #1792d2;
 }
 
 .nav-icon {
