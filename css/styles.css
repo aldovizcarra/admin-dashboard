@@ -76,8 +76,8 @@ body {
   grid-row: 1;
   display: grid;
   grid-template-columns: 2fr 1fr;
-  border: 1px solid red;
   padding: 16px 48px 16px 40px;
+  row-gap: 24px;
 }
 
 .header-icon {
