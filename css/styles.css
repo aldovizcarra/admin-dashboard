@@ -138,6 +138,7 @@ body {
 .username-lg {
   display: flex;
   align-items: center;
+  gap: 16px;
 }
 
 .header-buttons {
