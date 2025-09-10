@@ -163,6 +163,15 @@ body {
   font-weight: 700;
 }
 
+.username {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.username-greeting {
+  line-height: 1.4;
+}
+
 /* Sidebar styles */
 .sidebar {
   grid-column: 1;
