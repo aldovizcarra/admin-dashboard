@@ -103,6 +103,11 @@ body {
 .user-avatar-1-lg {
   width: 60px;
   height: 60px;
+  border-radius: 50%;
+  background-color: #facc2f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .search-container {
