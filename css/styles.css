@@ -188,6 +188,11 @@ body {
   fill: #fff;
 }
 
+.heading,
+.nav li {
+  display: flex;
+}
+
 /* Main styles */
 .main {
   grid-column: 2;
