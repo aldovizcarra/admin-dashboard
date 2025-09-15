@@ -200,6 +200,11 @@ body {
   font-weight: 700;
 }
 
+.dashboard-icon {
+  width: 40px;
+  height: 40px;
+}
+
 /* Main styles */
 .main {
   grid-column: 2;
