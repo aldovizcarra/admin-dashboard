@@ -204,6 +204,7 @@ body {
 
 .nav li {
   margin-bottom: 16px;
+  gap: 18px;
 }
 
 .nav ul li:nth-child(6) {
