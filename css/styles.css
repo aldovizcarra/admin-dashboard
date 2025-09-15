@@ -194,6 +194,10 @@ body {
   display: flex;
 }
 
+.nav ul {
+  padding: 8px;
+}
+
 .heading {
   align-items: center;
   gap: 12px;
