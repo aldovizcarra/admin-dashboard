@@ -180,6 +180,7 @@ body {
   grid-row: 1 / -1;
   background-color: #1792d2;
   color: #fff;
+  padding: 16px;
 }
 
 .nav-icon {
