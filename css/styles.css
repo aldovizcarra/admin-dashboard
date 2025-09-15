@@ -198,6 +198,10 @@ body {
   padding: 8px;
 }
 
+.nav li span {
+  font-weight: 500;
+}
+
 .heading {
   align-items: center;
   gap: 12px;
