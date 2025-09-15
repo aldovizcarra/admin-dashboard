@@ -202,6 +202,14 @@ body {
   font-weight: 500;
 }
 
+.nav li {
+  margin-bottom: 16px;
+}
+
+.nav ul li:nth-child(6) {
+  margin-bottom: 48px;
+}
+
 .heading {
   align-items: center;
   gap: 12px;
