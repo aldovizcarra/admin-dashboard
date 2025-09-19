@@ -237,6 +237,8 @@ body {
 /* Project Cards styles  */
 .project-card {
   background-color: #fff;
+  width: 100%;
+  max-width: 400px;
 }
 
 .card-icon {
