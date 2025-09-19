@@ -234,6 +234,11 @@ body {
   grid-template-columns: 2fr 1fr;
 }
 
+/* Project Cards styles  */
+.project-card {
+  background-color: #fff;
+}
+
 .card-icon {
   width: 24px;
   height: 24px;
