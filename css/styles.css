@@ -283,6 +283,8 @@ body {
 .widget-announcements {
   background-color: #fff;
   line-height: 1.2;
+  width: 100%;
+  max-width: 500px;
 }
 
 .widget-announcement h2 {
