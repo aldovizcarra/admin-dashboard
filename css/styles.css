@@ -260,6 +260,10 @@ body {
   color: #636363;
 }
 
+.card-icons {
+  display: flex;
+}
+
 .card-icon {
   width: 24px;
   height: 24px;
