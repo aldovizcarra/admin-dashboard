@@ -232,6 +232,7 @@ body {
   background-color: #e2e8f0;
   display: grid;
   grid-template-columns: 2fr 1fr;
+  gap: 24px;
 }
 
 /* Project Cards styles  */
