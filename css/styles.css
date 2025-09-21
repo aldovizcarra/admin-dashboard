@@ -248,6 +248,7 @@ body {
   width: 100%;
   max-width: 400px;
   border-radius: 8px;
+  border-left: 8px solid #f1b437;
 }
 
 .card-content {
