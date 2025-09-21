@@ -290,6 +290,10 @@ body {
   font-weight: 700;
 }
 
+.widget-announcement p {
+  color: #636363;
+}
+
 .trending-avatar {
   width: 40px;
   height: 40px;
