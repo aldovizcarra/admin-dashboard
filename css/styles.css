@@ -255,6 +255,7 @@ body {
 .card-content {
   line-height: 1.2;
   flex: 1;
+  margin-bottom: 24px;
 }
 
 .card-content h2 {
