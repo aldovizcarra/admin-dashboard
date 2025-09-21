@@ -242,6 +242,8 @@ body {
 }
 
 .project-card {
+  display: flex;
+  flex-direction: column;
   background-color: #fff;
   width: 100%;
   max-width: 400px;
