@@ -235,6 +235,12 @@ body {
   gap: 24px;
 }
 
+@media (min-width: 600px) {
+  .main {
+    grid-template-columns: 1fr minmax(auto, 400px);
+  }
+}
+
 /* Project Cards styles  */
 .projects {
   display: grid;
@@ -247,7 +253,7 @@ body {
   flex-direction: column;
   background-color: #fff;
   width: 100%;
-  max-width: 800px;
+  /* max-width: 800px; */
   border-radius: 8px;
   border-left: 8px solid #f1b437;
   padding: 32px 24px;
