@@ -261,6 +261,7 @@ body {
 .card-content h2 {
   font-size: 1.3rem;
   font-weight: 700;
+  margin-bottom: 4px;
 }
 
 .card-content p {
