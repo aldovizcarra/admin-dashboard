@@ -282,6 +282,7 @@ body {
 /* Widget styles */
 .widget-announcements {
   background-color: #fff;
+  line-height: 1.2;
 }
 
 .widget-announcement h2 {
