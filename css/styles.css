@@ -251,6 +251,7 @@ body {
 
 .card-content {
   line-height: 1.2;
+  flex: 1;
 }
 
 .card-content h2 {
