@@ -247,6 +247,10 @@ body {
   max-width: 400px;
 }
 
+.card-content p {
+  color: #636363;
+}
+
 .card-icon {
   width: 24px;
   height: 24px;
