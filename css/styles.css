@@ -300,6 +300,7 @@ body {
 .widget-announcement h2 {
   font-size: 1.1rem;
   font-weight: 700;
+  margin-bottom: 4px;
 }
 
 .widget-announcement p {
