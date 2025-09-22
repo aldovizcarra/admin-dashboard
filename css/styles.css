@@ -310,6 +310,7 @@ body {
 /* Widget Trending styles */
 .widget-sidebar {
   display: grid;
+  grid-template-rows: 1fr auto;
   gap: 48px;
 }
 
