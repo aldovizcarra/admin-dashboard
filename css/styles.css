@@ -279,7 +279,7 @@ body {
   height: 24px;
 }
 
-/* Widget styles */
+/* Widget Announcements styles */
 .widget-announcements {
   background-color: #fff;
   line-height: 1.2;
@@ -305,6 +305,11 @@ body {
 
 .widget-announcement p {
   color: #636363;
+}
+
+/* Widget Trending styles */
+.trending-item {
+  display: flex;
 }
 
 .trending-avatar {
