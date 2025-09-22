@@ -318,6 +318,7 @@ body {
 .widget-trending {
   background-color: #fff;
   border-radius: 8px;
+  padding: 24px 24px 32px 24px;
 }
 
 .trending-item {
