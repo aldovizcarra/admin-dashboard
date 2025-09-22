@@ -356,6 +356,10 @@ body {
   background-color: #ffa4b0;
 }
 
+.trending-content {
+  line-height: 1.3;
+}
+
 .trending-content p:nth-child(2) {
   color: #636363;
 }
