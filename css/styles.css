@@ -310,6 +310,7 @@ body {
 /* Widget Trending styles */
 .widget-trending {
   background-color: #fff;
+  border-radius: 8px;
 }
 
 .trending-item {
