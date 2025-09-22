@@ -322,6 +322,7 @@ body {
 
 .trending-item {
   display: flex;
+  align-items: center;
 }
 
 .trending-avatar {
