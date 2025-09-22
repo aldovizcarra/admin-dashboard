@@ -352,3 +352,7 @@ body {
 .trending-content p:nth-child(2) {
   color: #636363;
 }
+
+.trending-content p:nth-child(1) {
+  font-weight: 500;
+}
