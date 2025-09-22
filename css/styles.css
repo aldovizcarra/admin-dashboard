@@ -344,3 +344,8 @@ body {
 .avatar-3 {
   background-color: #a3a3a3;
 }
+
+.avatar-4 {
+  background-color: #ffa4b0;
+  /* overflow: hidden; */
+}
