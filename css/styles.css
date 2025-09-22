@@ -347,5 +347,8 @@ body {
 
 .avatar-4 {
   background-color: #ffa4b0;
-  /* overflow: hidden; */
+}
+
+.trending-content p:nth-child(2) {
+  color: #636363;
 }
