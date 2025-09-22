@@ -231,7 +231,7 @@ body {
   padding: 40px 32px 40px 16px;
   background-color: #e2e8f0;
   display: grid;
-  grid-template-columns: 4fr 1fr;
+  grid-template-columns: 3fr 1fr;
   gap: 24px;
 }
 
@@ -284,6 +284,8 @@ body {
   background-color: #fff;
   line-height: 1.2;
   width: 100%;
+  padding: 32px 24px;
+  border-radius: 8px;
 }
 
 .widget-announcement h2 {
