@@ -323,6 +323,7 @@ body {
 .trending-item {
   display: flex;
   align-items: center;
+  gap: 16px;
 }
 
 .trending-avatar {
