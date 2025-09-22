@@ -308,6 +308,10 @@ body {
 }
 
 /* Widget Trending styles */
+.widget-trending {
+  background-color: #fff;
+}
+
 .trending-item {
   display: flex;
 }
