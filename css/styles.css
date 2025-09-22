@@ -308,6 +308,11 @@ body {
 }
 
 /* Widget Trending styles */
+.widget-sidebar {
+  display: grid;
+  gap: 48px;
+}
+
 .widget-trending {
   background-color: #fff;
   border-radius: 8px;
