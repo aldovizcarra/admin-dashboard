@@ -284,12 +284,12 @@ body {
   background-color: #fff;
   line-height: 1.2;
   width: 100%;
-  padding: 24px;
+  padding: 24px 24px 8px 24px;
   border-radius: 8px;
 }
 
 .widget-announcement {
-  padding: 24px 8px;
+  padding: 8px 8px 24px 8px;
 }
 
 .widget-announcement:nth-child(-n + 2) {
