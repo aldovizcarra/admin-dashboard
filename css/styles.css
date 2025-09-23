@@ -336,7 +336,7 @@ body {
 /* Widget Trending styles */
 .widget-sidebar {
   display: grid;
-  gap: 48px;
+  gap: 72px;
 }
 
 .widget-trending {
