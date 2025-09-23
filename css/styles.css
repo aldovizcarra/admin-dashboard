@@ -199,8 +199,13 @@ body {
   padding-left: 8px;
 }
 
-.nav li span {
+.nav-text {
   font-weight: 500;
+}
+
+.nav-text,
+.nav-icon {
+  cursor: pointer;
 }
 
 .nav li {
