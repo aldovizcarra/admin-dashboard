@@ -79,6 +79,7 @@ body {
   padding: 16px 48px 16px 40px;
   row-gap: 24px;
   box-shadow: 0 10px 8px -4px rgba(0, 0, 0, 0.08);
+  z-index: 1;
 }
 
 .header-icon {
