@@ -346,6 +346,17 @@ body {
   padding: 24px 24px 32px 24px;
   gap: 24px;
   box-shadow: 4px 6px 6px rgba(0, 0, 0, 0.08);
+  position: relative;
+}
+
+.widget-trending::before {
+  content: "Trending";
+  font-size: 1.4rem;
+  color: #000;
+  position: absolute;
+  top: -40px;
+  left: 0;
+  font-weight: 600;
 }
 
 .trending-item {
