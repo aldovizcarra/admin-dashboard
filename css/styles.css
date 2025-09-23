@@ -241,6 +241,17 @@ body {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 28px;
+  position: relative;
+}
+
+.projects::before {
+  content: "Your Projects";
+  font-size: 1.4rem;
+  color: #000;
+  position: absolute;
+  top: -40px;
+  left: 0;
+  font-weight: 600;
 }
 
 .project-card {
