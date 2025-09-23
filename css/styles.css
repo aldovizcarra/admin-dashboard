@@ -314,7 +314,6 @@ body {
 /* Widget Trending styles */
 .widget-sidebar {
   display: grid;
-  /* grid-template-rows: auto auto; */
   gap: 48px;
 }
 
@@ -331,10 +330,6 @@ body {
   display: flex;
   align-items: center;
   gap: 16px;
-}
-
-.trending-item:not(:last-child) {
-  /* margin-bottom: 24px; */
 }
 
 .trending-avatar {
