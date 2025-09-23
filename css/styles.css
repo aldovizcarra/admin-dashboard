@@ -300,6 +300,17 @@ body {
   padding: 24px 24px 8px 24px;
   border-radius: 8px;
   box-shadow: 4px 6px 6px rgba(0, 0, 0, 0.08);
+  position: relative;
+}
+
+.widget-announcements::before {
+  content: "Announcements";
+  font-size: 1.4rem;
+  color: #000;
+  position: absolute;
+  top: -38px;
+  left: 0;
+  font-weight: 600;
 }
 
 .widget-announcement {
